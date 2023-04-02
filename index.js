@@ -36,7 +36,7 @@ function isPalindrome(word) {
 
 
   The function can also be made case insensitive by preprocessing the word argument to become a single case 
-  (either upper or lower) before executing the algorithm. An illustration is given below with the key statement being line 2: 
+  (either upper or lower) before executing the algorithm. An illustration is given below: 
 
   function isPalindrome(word) {
 
